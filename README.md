@@ -52,7 +52,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edmondz/edmondz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edmondz/edmondz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edmondz/edmondz/output/pacman-contribution-graph.svg">
+  <img alt="gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm8yYzFhM2k0MmJ3dXZtb2xicDk2ejA5MjAxOWkwdWpnZXBndnpoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">
 </picture>
 
 ###
