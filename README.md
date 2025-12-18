@@ -83,10 +83,6 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jdjshshdhdgz&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak Jdjshshdhdgz" style="max-width: 100%;"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jdjshshdhdgz&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies Jdjshshdhdgz" style="max-width: 100%;"/>
-</div>
-
 ---
 
 ## Proyectos Destacados - edmondz
