@@ -155,14 +155,14 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
 ### Chiste de Programador del Día
 <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=FF5F5F" alt="Programming Jokes" style="max-width: 100%;"/>
 
-### 🎵 Música de Codificación
+### Música de Codificación
 Actualmente escuchando: Eminem mientras codifico 🎧
 
 </div>
 
 ---
 
-## 🤝 Colaboraciones y Contacto
+## Colaboraciones y Contacto
 
 <div align="center">
 
@@ -170,10 +170,10 @@ Actualmente escuchando: Eminem mientras codifico 🎧
 
 📧 **Contacto profesional:** Envíame un DM en cualquiera de mis redes sociales
 
-💼 **Disponible para:**
+**Disponible para:**
 -Colabs
 
-🌍 **Idiomas:** Español (Nativo), Inglés (Avanzado)
+ **Idiomas:** Español (Nativo), Inglés (Avanzado)
 
 </div>
 
@@ -183,7 +183,7 @@ Actualmente escuchando: Eminem mientras codifico 🎧
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave"> 
   <br><br>
   
-  ## ¡Gracias por Visitar mi Perfil! 🚀
+  ## ¡Gracias por Visitar mi Perfil! 
   
   **Siempre abierto a colaboraciones, nuevas oportunidades y conexiones**
   
