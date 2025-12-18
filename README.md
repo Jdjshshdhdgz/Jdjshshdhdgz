@@ -17,7 +17,7 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
 
 ---
 
-## 🌐 Conecta Conmigo - @edmondz
+## Conecta Conmigo - @edmondz
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
 
 ---
 
-## 📊 Estadísticas de GitHub - @edmondz
+## Estadísticas de GitHub - @edmondz
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jdjshshdhdgz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats Jdjshshdhdgz" style="max-width: 100%;"/>
@@ -130,12 +130,12 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
 
 ---
 
-## 🎯 Áreas de Especialización - @edmondz
+##  Áreas de Especialización - @edmondz
 
 <div align="center">
 
-🌐 **HTML 5** • 🎮 **Gaming & Modding** • ⚡ **Optimizaciones** • 
-☁️ **Cloud & Streaming** •  📹 **Content Creation** • Video Tutorials 
+ **HTML 5** • **Gaming & Modding** • **Optimizaciones** • 
+ **Cloud & Streaming** •  **Content Creation** • Video Tutorials 
 
 </div>
 
@@ -148,7 +148,7 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
 
 ---
 
-## 😄 Fun Zone
+## Fun Zone!
 
 <div align="center">
   
