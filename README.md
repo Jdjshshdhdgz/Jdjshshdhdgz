@@ -33,7 +33,7 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://www.youtube.com/@eddmondooficial" target="_blank" rel="noopener noreferrer">
+<a href="https://www.youtube.com/@eddmondoofficial" target="_blank" rel="noopener noreferrer">
 <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="80px" alt="YouTube Jdjshshdhdgz"/><br>
 <sub><b>YouTube</b></sub><br>
 <sub>@edmondz</sub>
