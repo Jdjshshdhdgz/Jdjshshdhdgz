@@ -27,21 +27,21 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
 </td>
 <td align="center" width="25%">
 <a href="https://www.instagram.com/edmondzoficial/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="80px" alt="Instagram Jepherson Medina"/><br>
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="80px" alt="Instagram Jdjshshdhdgz"/><br>
 <sub><b>Instagram</b></sub><br>
 <sub>@edmondz</sub>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://www.youtube.com/@eddmondooficial" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/fluency/96/youtube-play.png" width="80px" alt="YouTube JephersonRD"/><br>
+<img src="https://img.icons8.com/fluency/96/youtube-play.png" width="80px" alt="YouTube Jdjshshdhdgz"/><br>
 <sub><b>YouTube</b></sub><br>
 <sub>@edmondz</sub>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/Jdjshshdhdgz" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/fluency/96/github.png" width="80px" alt="GitHub JephersonRD"/><br>
+<img src="https://img.icons8.com/fluency/96/github.png" width="80px" alt="GitHub Jdjshshdhdgz"/><br>
 <sub><b>GitHub</b></sub><br>
 <sub>edmondz</sub>
 </a>
@@ -51,10 +51,10 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
 
 <p>
 <a href="https://www.instagram.com/edmondzoficial/" target="_blank">
-<img src="https://img.shields.io/badge/Sígueme_en_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram @jepherson_medina"/>
+<img src="https://img.shields.io/badge/Sígueme_en_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram @edmondzoficial"/>
 </a>
 <a href="https://www.youtube.com/@eddmondoofficial" target="_blank">
-<img src="https://img.shields.io/badge/Suscríbete_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" alt="YouTube @jephersonRD"/>
+<img src="https://img.shields.io/badge/Suscríbete_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" alt="YouTube @eddmondoofficial"/>
 </a>
 </p>
 
