@@ -72,19 +72,19 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
 ## 📊 Estadísticas de GitHub - @edmondz
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jdjshshdhdgz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats JephersonRD" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jdjshshdhdgz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats Jdjshshdhdgz" style="max-width: 100%;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdjshshdhdgz&layout=compact&langs_count=8&theme=radical&border_radius=10" alt="Top Languages JephersonRD Python React Django" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdjshshdhdgz&layout=compact&langs_count=8&theme=radical&border_radius=10" alt="Top Languages Jdjshshdhdgz Python React Django" style="max-width: 100%;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jdjshshdhdgz&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak JephersonRD" style="max-width: 100%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jdjshshdhdgz&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak Jdjshshdhdgz" style="max-width: 100%;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jdjshshdhdgz&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies JephersonRD" style="max-width: 100%;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jdjshshdhdgz&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies Jdjshshdhdgz" style="max-width: 100%;"/>
 </div>
 
 ---
