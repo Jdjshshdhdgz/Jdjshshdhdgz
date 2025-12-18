@@ -197,7 +197,7 @@ Actualmente escuchando: Eminem mientras codifico 🎧
   ### 🔍 Encuentrame en:
   **GitHub** • **TikTok** • **Instagram** • **YouTube**
   
-  `#jephersonRD` `#DevRD` `#ProgramadorDominicano` `#FullStackDeveloper` `#TechContentCreator`
+  `#edmondz` `#edmondzDev` `#ProgramadorArgentino` `#GameProgrammer` `#ContentCreator`
   
 </div>
 
