@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Edmondz%20&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=%20Developer%20|%20Content%20Creator&descSize=20&descAlignY=55" alt=" Edmondz - Programador - Argentina" style="max-width: 100%;"/>
 </div>
@@ -205,7 +206,8 @@ Actualmente escuchando: Eminem mientras codifico 🎧
 <div align="center">
   <sub>© 2025 Edmondcito (@edmondz) • HTML Developer & Content Creator • Argentina</sub>
   <br>
-  <sub>Python | React | Django | Games Optimization | Tech</sub>
+  <sub>Python | React | Games Optimization </sub>
+  <sub>README basado en @jephersonRD ❤</sub>
 </div>
 
 <!-- SEO Footer Keywords -->
