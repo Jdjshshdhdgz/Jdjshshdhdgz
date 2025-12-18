@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jepherson%20Medina&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Content%20Creator&descSize=20&descAlignY=55" alt=" Jepherson Medina - Full Stack Developer - República Dominicana" style="max-width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jepherson%20Medina&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Content%20Creator&descSize=20&descAlignY=55" alt=" Edmondz - Programador - Argentina" style="max-width: 100%;"/>
 </div>
 
 <!-- SEO Optimizado -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Especialista+en+Optimizaci%C3%B3n+%E2%9A%A1;Creador+de+Contenido+Tech+%F0%9F%8E%AC;Python+%7C+React+%7C+Django+Developer;Game+Modding+%26+Automation+%F0%9F%8E%AE;Open+Source+Contributor+%F0%9F%92%BB;Tech+YouTuber+%26+TikToker+%F0%9F%93%B9;System+Performance+Expert+%E2%9A%99%EF%B8%8F;Remote+Streaming+Specialist+%E2%98%81%EF%B8%8F;Dominican+Software+Engineer+%F0%9F%87%A9%F0%9F%87%B4" alt="JephersonRD - Desarrollador Full Stack República Dominicana" style="max-width: 100%;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&width=600&lines=Desarrollador+%F0%9F%9A%80;Profesional+en+Optimizaci%C3%B3n+%E2%9A%A1;Creador+de+Contenido+%F0%9F%8E%AC;HTML 5+%7C%7C;Game+Modding+%26+Automation+%F0%9F%8E%AE;Open+Source+Contributor+%F0%9F%92%BB;YouTuber+%26+%F0%9F%93%B9;+%E2%9A%99%EF%B8%8F;%E2%98%81%EF%B8%8F;Argentinian+Programmer+%F0%9F%87%A9%F0%9F%87%B4" alt="Edmondz - Desarrollador Argentino" style="max-width: 100%;"/>
   </h1>
 </div>
 
