@@ -142,7 +142,7 @@
 
 
 ### Temas que conozco
-`Python` •  `Git` • `Linux` • `Game Optimization` • `Game Modding` • `Web Development` 
+`Python` •  `Git` • `Game Optimization` • `Game Modding` • `HTML 5` 
 
 ---
 
