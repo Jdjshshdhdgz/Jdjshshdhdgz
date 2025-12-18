@@ -207,8 +207,8 @@ Actualmente escuchando: Eminem mientras codifico 🎧
 <div align="center">
   <sub>© 2025 Edmondcito (@edmondz) • HTML Developer & Content Creator • Argentina</sub>
   <br>
-  <sub>Python | React | Games Optimization </sub>
-  <sub>README basado en @jephersonRD ❤</sub>
+  <sub>Python | React | Games Optimization | </sub>
+  <sub>**README basado en @jephersonRD ❤**</sub>
 </div>
 
 <!-- SEO Footer Keywords -->
