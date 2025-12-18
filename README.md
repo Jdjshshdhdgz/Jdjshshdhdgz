@@ -53,7 +53,7 @@ Soy un programador joven que recien esta empezando, te agradeceria si me siguies
 <a href="https://www.instagram.com/edmondzoficial/" target="_blank">
 <img src="https://img.shields.io/badge/Sígueme_en_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram @edmondzoficial"/>
 </a>
-<a href="https://www.youtube.com/@eddmondoofficial" target="_blank">
+<a href="https://www.youtube.com/@eddmondofficial" target="_blank">
 <img src="https://img.shields.io/badge/Suscríbete_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" alt="YouTube @eddmondoofficial"/>
 </a>
 </p>
