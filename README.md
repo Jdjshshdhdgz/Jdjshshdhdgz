@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/Foco-Optimizaci%C3%B3n-ff5f5f?style=for-the-badge" alt="Focus Optimization"/>
 </p>
 
+### ☁️ Mi Biografia 
+**Hola! que tal? todo bien? mi nombre es Edmondz, pero me pueden decir Gero.
+Soy un chico de 13 años con el sueño de trabajar para la compaña llamada ROBLOX, y mudarme a los Estados Unidos 😉**
+
 
 ---
 
