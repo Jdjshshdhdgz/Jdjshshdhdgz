@@ -11,8 +11,7 @@
 
 ### ☁️ Mi Biografia 
 **Hola! que tal? todo bien? mi nombre es Edmondz, pero me pueden decir Gero.
-Soy un chico de 13 años con el sueño de trabajar para la compaña llamada ROBLOX, y mudarme a los Estados Unidos 😉
-
+Soy un chico de 13 años con el sueño de trabajar para la compaña llamada ROBLOX, y mudarme a los Estados Unidos,
 Soy un programador joven que recien esta empezando, te agradeceria si me siguieses en mis redes sociales, que tengas un buen dia!**
 
 
