@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Edmondz%20&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=%%20Developer%20|%20Content%20Creator&descSize=20&descAlignY=55" alt=" Edmondz - Programador - Argentina" style="max-width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Edmondz%20&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=%Developer%20|%20Content%20Creator&descSize=20&descAlignY=55" alt=" Edmondz - Programador - Argentina" style="max-width: 100%;"/>
 </div>
 
 <!-- SEO Optimizado -->
